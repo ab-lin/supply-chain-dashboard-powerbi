@@ -40,5 +40,7 @@ Key visualizations and KPIs were developed in Power BI to reveal patterns, trend
 
 
 ## Dashboards
+![dashboard-2015](https://github.com/ab-lin/supply-chain-dashboard-powerbi/blob/main/dashboard-2015.png)
 ![dashboard-2016](https://github.com/ab-lin/supply-chain-dashboard-powerbi/blob/main/dashboard-2016.png)
 ![dashboard-2017](https://github.com/ab-lin/supply-chain-dashboard-powerbi/blob/main/dashboard-2017.png)
+![dashboard-2018](https://github.com/ab-lin/supply-chain-dashboard-powerbi/blob/main/dashboard-2018.png)
